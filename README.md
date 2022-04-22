@@ -1,6 +1,6 @@
 # Kaggle X-ray project
 
-This is my implementation for pneumonia prediction challenge on the X-ray dataset hosted on Kaggle [1].
+This is my implementation for the pneumonia prediction challenge on the X-ray dataset hosted on Kaggle [1].
 
 To run this project, first install the libraries listed in the requirements.txt file.
 If preferred, create a virtual environment first before installing these packages (recommended).
